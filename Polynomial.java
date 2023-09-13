@@ -5,7 +5,7 @@ public class Polynomial{
      */
     // === Instance Variables ===
 
-    // a polynomial in the form of an arraylist
+    // a polynomial in the form of an array
     private double[] coefficients;
     // ===
 
